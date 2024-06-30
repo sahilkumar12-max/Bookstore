@@ -28,22 +28,31 @@ This project is a bookstore application that manages books, authors, and custome
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/sahilkumar12-max/Bookstore.git
 
+   ```
+
 2. Navigate into the project directory:
-    ```bash
-    cd Bookstore
+
+   ```bash
+   cd Bookstore
+
+   ```
 
 3. Install dependencies
 
 ### Usage
-   Run the application:
-    ```bash
-    python main.py
+
+Run the application:
+```bash
+python main.py
 
 ### Contributing
+
     Contributions are welcome! Please fork the repository and submit a pull request.
 
 ### License
+
     This project is licensed under the MIT License - see the LICENSE file for details.
